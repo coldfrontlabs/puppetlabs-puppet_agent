@@ -129,6 +129,7 @@ type Puppet_agent::Config_setting = Enum[
   log_level,
   logdest,
   logdir,
+  master_port,
   manage_internal_file_permissions,
   manifest,
   masterport,
